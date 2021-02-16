@@ -1,3 +1,15 @@
+# Gerenciador de gastos financeiros
+
+# Descrição 
+- As ferramentas utilizadas nesse projeto foram o react juntamente com o firestore, podemos guardar as informações de gastos(receitas) e as despesas.
+
+# Funcionanlidades
+- Pagina inicial com login para cada usuario
+- Formulario para prencher as informações sobre despesas e receitas
+   - Pode editar ou excluir dados
+
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -10,6 +22,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+If 'yarn start' doesn't work try 'yarn install' before.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
