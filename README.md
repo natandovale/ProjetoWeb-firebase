@@ -3,10 +3,10 @@
 # Descrição 
 - As ferramentas utilizadas nesse projeto foram o react juntamente com o firestore, podemos guardar as informações de gastos(receitas) e as despesas.
 
-# Funcionanlidades
-- Pagina inicial com login para cada usuario
-- Formulario para prencher as informações sobre despesas e receitas
-   - Pode editar ou excluir dados
+# Funcionalidades
+- Pagina inicial com login para cada usuario.
+- Formulario para prencher as informações sobre despesas e receitas.
+   - Pode editar ou excluir dados.
 
  
 
